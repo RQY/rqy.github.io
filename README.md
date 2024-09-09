@@ -1,1 +1,1 @@
-Now Chin@.
+tsc -init
